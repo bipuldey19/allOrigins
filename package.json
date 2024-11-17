@@ -4,9 +4,6 @@
   "author": "Gabriel Nunes <gabriel@multiverso.me>",
   "version": "2.7.0",
   "main": "server.js",
-  "engines": {
-    "node": "16.x"
-  },
   "license": "MIT",
   "scripts": {
     "test": "yarn prettier && jest --coverage ./app",
